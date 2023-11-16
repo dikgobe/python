@@ -8,4 +8,6 @@ on the next comming $ week we will be learning about python and the basics.Pytho
 Regular expressions, often referred to as regex or regexp, are a powerful tool for pattern matching and text manipulation in programming. They provide a concise and flexible way to search, match, and manipulate strings based on specific patterns .Reading and writing files in Python is a fundamental operation for working with external data, such as text 
  files.The following code reads data from a BankData.txt file and copy it into myoutput.txt file 
 
+ week 3
+
  
