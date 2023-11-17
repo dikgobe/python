@@ -18,5 +18,7 @@ Functions are blocks of reusable code that perform a specific task or group of t
 
 lists are a versatile and commonly used data structure that allows you to store and manipulate collections of items.some of the essential operations and methods for working with Python lists. Lists are versatile and widely used in Python for a wide range of applications.you can implement both stacks and queues, which are fundamental data structures for managing collections of items using lists.List comprehensions are a concise and powerful way to create lists in Python. They provide a more readable and expressive way to generate lists by applying an expression to each item in an existing iterable (e.g., a list, tuple, or string) and optionally filtering the results. List comprehensions are more compact and elegant compared to traditional for loops when creating new lists.Nested list comprehensions allow you to generate a new list by applying an expression to each element of one or more input lists, creating a compact and readable way to work with multi-dimensional data.
 
+week 4
+
 
  
